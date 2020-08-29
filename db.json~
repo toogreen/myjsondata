@@ -1,4 +1,4 @@
-const newsDb = [
+newsDb = [
   {
     id: -1,
     col: "left",
@@ -76,5 +76,3 @@ const newsDb = [
     source:"thestar.com"
   }
 ];
-
-export default newsDb
