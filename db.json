@@ -1,5 +1,6 @@
-{"success":true,"data":{"newsDb":[  {
-    id: -1,
+{"success":true,"data":{"newsDb":[
+   {
+    id: 0,
     col: "left",
     header: "COVID-19",
     title:"Coronavirus: un virus mutant moins agressif, selon une étude", 
