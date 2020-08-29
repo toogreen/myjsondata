@@ -1,4 +1,4 @@
-  {
+{"success":true,"data":{"newsDb":[  {
     id: -1,
     col: "left",
     header: "COVID-19",
@@ -73,4 +73,4 @@
     img:"",
     class:"card1",
     source:"thestar.com"
-  }
+  }]}}

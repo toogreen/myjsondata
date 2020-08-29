@@ -1,4 +1,3 @@
-newsDb = [
   {
     id: -1,
     col: "left",
@@ -75,4 +74,3 @@ newsDb = [
     class:"card1",
     source:"thestar.com"
   }
-];
