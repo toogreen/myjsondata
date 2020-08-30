@@ -1,4 +1,4 @@
-{"success":true,"data":{"newsDb":[
+{"newsDb":[
            {
             "id": 0,
             "col": "left",
@@ -77,4 +77,4 @@
             "source":"thestar.com"
           }
     ]
-}}
+}
