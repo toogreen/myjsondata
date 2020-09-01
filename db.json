@@ -65,7 +65,7 @@
             "class":"card2",
             "source":"ici.radio-canada.ca"
           },
-/*          {
+          {
             "id": 5,
             "col": "right",
             "header": "Opinion",
@@ -75,7 +75,7 @@
             "img":"http://plus.lapresse.ca/screens/captures/45831c1b/341a/4ff5/89f1/acc407d219ca_0.jpg",
             "class":"card1",
             "source":"lapresse.ca"
-          },*/
+          },
           {
             "id": 6,
             "col": "middle",
