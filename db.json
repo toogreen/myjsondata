@@ -75,6 +75,17 @@
             "img":"",
             "class":"card2",
             "source":"lapresse.ca"
+          },
+          {
+            "id": 7,
+            "col": "middle",
+            "header": "Éducation",
+            "title":"COVID-19 : difficile pour des médecins de se faire entendre",
+            "desc":"Des médecins dénoncent la sourde oreille de la santé publique dans la gestion de la pandémie de COVID-19. Certains se désolent de devoir se tourner vers les médias traditionnels ou les réseaux sociaux pour se faire entendre. D'autres décident tout simplement de se taire, par crainte des représailles.",
+            "url":"https://ici.radio-canada.ca/nouvelle/1730179/college-medecins-reseaux-sociaux-sante-publique",
+            "img":"https://images.radio-canada.ca/q_auto,w_960/v1/ici-premiere/16x9/medecin-sante-docteur.jpg",
+            "class":"card2",
+            "source":"lapresse.ca"
           }
     ],
      "china":[
