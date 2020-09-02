@@ -86,6 +86,24 @@
             "img":"",
             "class":"card2",
             "source":"lapresse.ca"
+          },
+          {
+            "id": 7,
+            "col": "caricatures",
+            "header": "Caricatures",
+            "img": "http://toogreen.ca/china-static/img/caricature.jpg"
+          },
+          {
+            "id": 8,
+            "col": "caricatures",
+            "header": "",
+            "img": "http://toogreen.ca/china-static/img/caricature2.jpg"
+          },
+          {
+            "id": 9,
+            "col": "caricatures",
+            "header": "",
+            "img": "http://toogreen.ca/china-static/img/caricature3.jpg"
           }
     ],
      "china":[
