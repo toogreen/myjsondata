@@ -1,5 +1,27 @@
 {       "newsDb":[
-           {
+     {
+      "id": -2,
+      "col": "middle",
+      "header": "En anglais",
+      "title":"Your Coronavirus Test Is Positive. Maybe It Shouldn’t Be.",
+      "desc":"The usual diagnostic tests may simply be too sensitive and too slow to contain the spread of the virus.",
+      "url":"https://www.nytimes.com/2020/08/29/health/coronavirus-testing.html?s=04&fbclid=IwAR0n393bsvm82h2PXX6Ime_rw57AbA1LtTcSOYJRv68FVDZRzDBsILpv9aY#click=https://t.co/HKqheIlRIW",
+      "img":"https://m1.quebecormedia.com/emp/emp/367e9580_a4db_11ea_839a_d5b438af6ddd9a74fc6d-7a85-4d04-bffd-ea99f546c08b_ORIGINAL.jpg?impolicy=crop-resize&x=0&y=0&w=0&h=0&width=968",
+      "class":"card1",
+      "source":"journaldemontreal.com"
+    },
+    {
+      "id": -1,
+      "col": "left",
+      "header": "COVID-19",
+      "title":"Le confinement à la source d’une deuxième vague, mais psychiatrique?",
+      "desc":"Les effets du confinement sur la santé mentale se font de plus en plus ressentir et certains hôpitaux psychiatriques du Québec sont débordés. ",
+      "url":"https://www.journaldemontreal.com/2020/06/22/le-confinement-a-la-source-dune-deuxieme-vague-mais-psychiatrique-1?fbclid=IwAR19KQTrwXwaVNsOHKyKVJb5Zjv4zvXZXxLERoZuhTa1k9hh6HhM7K6N824",
+      "img":"https://m1.quebecormedia.com/emp/emp/367e9580_a4db_11ea_839a_d5b438af6ddd9a74fc6d-7a85-4d04-bffd-ea99f546c08b_ORIGINAL.jpg?impolicy=crop-resize&x=0&y=0&w=0&h=0&width=968",
+      "class":"card1",
+      "source":"journaldemontreal.com"
+    },
+    {
             "id": 0,
             "col": "left",
             "header": "COVID-19",
