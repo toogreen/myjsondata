@@ -1,4 +1,15 @@
 {       "newsDb":[
+    {
+     "id": -3,
+     "col": "left",
+     "header": "COVID-19",
+     "title":"L'ÉTRANGE DEUXIÈME VAGUE DE COVID-19",
+     "desc":"On appelle « conspirationniste » quelqu’un qui fait trop de rapprochements entre des faits épars et non reliés. Mais, alors, comment devrait-on appeler celui qui n’en fait pas suffisamment entre des faits pourtant corrélés ou convergents ? Naïf, incurieux, peut-être.",
+     "url":"https://plus.lapresse.ca/screens/ed536f68-5131-4ec6-abfb-cf35d01006bd__7C___0.html?utm_content=screen&utm_medium=facebook&utm_campaign=microsite%20share&fbclid=IwAR2MGu2gSe_kNmgH_55towXvjwIPmG5R7TX5SjtrSnGxJnRnElth3UJI4gY&s=09",
+     "img":"http://plus.lapresse.ca/screens/captures/ed536f68/5131/4ec6/abfb/cf35d01006bd_0.jpg",
+     "class":"card1",
+     "source":"https://plus.lapresse.ca/"
+   },
      {
       "id": -2,
       "col": "middle",
