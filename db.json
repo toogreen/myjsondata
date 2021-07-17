@@ -1,16 +1,5 @@
 {       "newsDb":[
   {
-    "id": -4,
-    "col": "left",
-    "header": "COVID-19",
-    "title":"Il faut mettre fin à l’état d’urgence au Québec",
-    "desc":"POINT DE VUE / Déjà plus de 14 mois depuis que le Québec est entré en état d’urgence. Si l’état d’urgence a été momentanément nécessaire et utile, aujourd’hui il n’a plus sa légitimité: il doit être levé!",
-    "url":"https://www.lesoleil.com/opinions/point-de-vue/il-faut-mettre-fin-a-letat-durgence-au-quebec-dc7d5d3ac50da71582ef4039b93ea618",
-    "img":"https://images.omerlocdn.com/resize?url=https%3A%2F%2Fgcm.omerlocdn.com%2Fproduction%2Fglobal%2Ffiles%2Fimage%2Fdee8b9dd-9d95-409b-a441-cd5c5a2bd548.jpg&width=1024&type=webp",
-    "class":"card2",
-    "source":"https://www.lesoleil.com/"
-  },
-  {
      "id": -3,
      "col": "left",
      "header": "COVID-19",
@@ -21,16 +10,16 @@
      "class":"card1",
      "source":"https://plus.lapresse.ca/"
    },
-     {
+    {
       "id": -2,
       "col": "middle",
-      "header": "En anglais",
-      "title":"Your Coronavirus Test Is Positive. Maybe It Shouldn’t Be.",
-      "desc":"The usual diagnostic tests may simply be too sensitive and too slow to contain the spread of the virus.",
-      "url":"https://www.nytimes.com/2020/08/29/health/coronavirus-testing.html?s=04&fbclid=IwAR0n393bsvm82h2PXX6Ime_rw57AbA1LtTcSOYJRv68FVDZRzDBsILpv9aY#click=https://t.co/HKqheIlRIW",
-      "img":"https://static01.nyt.com/images/2020/08/30/science/30virus-test-print/merlin_170363544_1c6703b0-a265-441d-9277-5431b5236763-jumbo.jpg?quality=90&auto=webp",
-      "class":"card1",
-      "source":"nytimes.com"
+      "header": "COVID-19",
+      "title":"Il faut mettre fin à l’état d’urgence au Québec",
+      "desc":"POINT DE VUE / Déjà plus de 14 mois depuis que le Québec est entré en état d’urgence. Si l’état d’urgence a été momentanément nécessaire et utile, aujourd’hui il n’a plus sa légitimité: il doit être levé!",
+      "url":"https://www.lesoleil.com/opinions/point-de-vue/il-faut-mettre-fin-a-letat-durgence-au-quebec-dc7d5d3ac50da71582ef4039b93ea618",
+      "img":"https://images.omerlocdn.com/resize?url=https%3A%2F%2Fgcm.omerlocdn.com%2Fproduction%2Fglobal%2Ffiles%2Fimage%2Fdee8b9dd-9d95-409b-a441-cd5c5a2bd548.jpg&width=1024&type=webp",
+      "class":"card2",
+      "source":"https://www.lesoleil.com/"
     },
     {
       "id": -1,
