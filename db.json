@@ -1,6 +1,6 @@
 {       "newsDb":[
         {
-          "id": -4,
+          "id": -3,
           "col": "middle",
           "header": "COVID-19",
           "title":"Le convoi des camionneurs n’était pas financé par des acteurs étrangers, selon le SCRS",
@@ -11,7 +11,7 @@
           "source":"https://https://ici.radio-canada.ca/"
         },
         {
-          "id": -3,
+          "id": -2,
           "col": "left",
           "header": "COVID-19",
           "title":"L'ÉTRANGE DEUXIÈME VAGUE DE COVID-19",
@@ -22,7 +22,7 @@
           "source":"https://plus.lapresse.ca/"
         },
           {
-            "id": -2,
+            "id": -1,
             "col": "middle",
             "header": "COVID-19",
             "title":"Il faut mettre fin à l’état d’urgence au Québec",
@@ -33,7 +33,7 @@
             "source":"https://www.lesoleil.com/"
           },
           {
-            "id": -1,
+            "id": 0,
             "col": "left",
             "header": "COVID-19",
             "title":"Le confinement à la source d’une deuxième vague, mais psychiatrique?",
@@ -44,7 +44,7 @@
             "source":"journaldemontreal.com"
           },
           {
-            "id": 0,
+            "id": 1,
             "col": "left",
             "header": "COVID-19",
             "title":"Coronavirus: un virus mutant moins agressif, selon une étude", 
@@ -55,7 +55,7 @@
             "source":"journalmetro.com"
           },
           {
-            "id": 1,
+            "id": 2,
             "col": "left",
             "header": "",
             "title":"Un couvre-visage plus symbolique que sanitaire", 
@@ -66,7 +66,7 @@
             "source":"ledevoir.com"
           },
           {
-            "id": 2,
+            "id": 3,
             "col": "middle",
             "header": "Mon Opinion",
             "title":"La COVID-19 a muté et perdu toute sa virulence.", 
@@ -88,7 +88,7 @@
             "source": "ici.radio-canada.ca"
           },
           {
-            "id": 7,
+            "id": 5,
             "col": "right",
             "header": "COVID-19",
             "title":"COVID-19 : difficile pour des médecins de se faire entendre",
@@ -99,7 +99,7 @@
             "source":"ici.radio-canada.ca"
           },
           {
-            "id": 5,
+            "id": 6,
             "col": "right",
             "header": "Opinion",
             "title":"ÇA VA FAIRE",
