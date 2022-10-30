@@ -56,7 +56,7 @@
           },
           {
             "id": 1,
-            "col": "left",
+            "col": "middle",
             "header": "COVID-19",
             "title":"Le confinement à la source d’une deuxième vague, mais psychiatrique?",
             "desc":"Les effets du confinement sur la santé mentale se font de plus en plus ressentir et certains hôpitaux psychiatriques du Québec sont débordés. ",
@@ -89,7 +89,7 @@
           },
           {
             "id": 4,
-            "col": "left",
+            "col": "middle",
             "header": "",
             "title":"Tenter d'éradiquer le coronavirus a un coût social trop élevé, disent des experts", 
             "desc":"Chercher à éliminer chaque cas de COVID-19 est irréaliste, avancent 18 spécialistes de la santé, dans une lettre aux premiers ministres du pays.", 
