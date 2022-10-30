@@ -1,5 +1,16 @@
 {       "newsDb":[
         {
+          "id": -4,
+          "col": "middle",
+          "header": "COVID-19",
+          "title":"Le convoi des camionneurs n’était pas financé par des acteurs étrangers, selon le SCRS",
+          "desc":"C'est ce qu'affirmait le directeur des services de renseignement, David Vigneault, une semaine avant que le gouvernement Trudeau n'invoque la Loi sur les mesures d'urgence.",
+          "url":"https://ici.radio-canada.ca/nouvelle/1925908/loi-etat-urgence-ottawa-financement-etranger-convoi-camionneurs",
+          "img":"https://images.radio-canada.ca/q_auto,w_960/v1/ici-info/16x9/convoi-camionneurs-centre-ville-ottawa-gaz-essence-occupation-canada.jpg",
+          "class":"card1",
+          "source":"https://https://ici.radio-canada.ca/"
+        },
+        {
           "id": -3,
           "col": "left",
           "header": "COVID-19",
