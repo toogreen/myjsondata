@@ -1,6 +1,6 @@
 {       "newsDb":[
         {
-          "id": -5,
+          "id": -4,
           "col": "middle",
           "header": "COVID-19",
           "title":"Un passeport vaccinal aux effets limités, conclut une étude",
@@ -11,7 +11,7 @@
           "source":"https://www.journaldemontreal.com/"
         },
         {
-          "id": -4,
+          "id": -3,
           "col": "left",
           "header": "COVID-19",
           "title":"Le véritable portrait de la Covid-19 au Québec",
@@ -22,7 +22,7 @@
           "source":"https://libremedia.ca/"
         },
         {
-          "id": -3,
+          "id": -2,
           "col": "middle",
           "header": "COVID-19",
           "title":"Le convoi des camionneurs n’était pas financé par des acteurs étrangers, selon le SCRS",
@@ -33,7 +33,7 @@
           "source":"https://https://ici.radio-canada.ca/"
         },
         {
-          "id": -2,
+          "id": -1,
           "col": "left",
           "header": "COVID-19",
           "title":"L'ÉTRANGE DEUXIÈME VAGUE DE COVID-19",
@@ -44,7 +44,7 @@
           "source":"https://plus.lapresse.ca/"
         },
           {
-            "id": -1,
+            "id": 0,
             "col": "middle",
             "header": "COVID-19",
             "title":"Il faut mettre fin à l’état d’urgence au Québec",
@@ -55,7 +55,7 @@
             "source":"https://www.lesoleil.com/"
           },
           {
-            "id": 0,
+            "id": 1,
             "col": "left",
             "header": "COVID-19",
             "title":"Le confinement à la source d’une deuxième vague, mais psychiatrique?",
@@ -66,7 +66,7 @@
             "source":"journaldemontreal.com"
           },
           {
-            "id": 1,
+            "id": 2,
             "col": "left",
             "header": "COVID-19",
             "title":"Coronavirus: un virus mutant moins agressif, selon une étude", 
@@ -77,7 +77,7 @@
             "source":"journalmetro.com"
           },
           {
-            "id": 2,
+            "id": 3,
             "col": "left",
             "header": "",
             "title":"Un couvre-visage plus symbolique que sanitaire", 
@@ -86,17 +86,6 @@
             "img":"https://media2.ledevoir.com/images_galerie/nwd_827899_657629/image.jpg",
             "class":"card3",
             "source":"ledevoir.com"
-          },
-          {
-            "id": 3,
-            "col": "middle",
-            "header": "Mon Opinion",
-            "title":"La COVID-19 a muté et perdu toute sa virulence.", 
-            "desc":"Le Dr. Raoult l’avait prédit, de nouvelles recherches le confirme, et maintenant en voici la preuve irréfutable. La COVID-19 a muté et est maintenant passé au statut de grippe saisonnière. Peut-on passer à autre chose et revenir à la normale maintenant?", 
-            "url":"https://twitter.com/MadPharmacist1/status/1299471277980348416/photo/1",
-            "img":"https://pbs.twimg.com/media/EgimNFxX0AAuaGN?format=jpg&name=4096x4096",
-            "class":"card1",
-            "source":"Gouvernement espagnol"
           },
           {
             "id": 4,
