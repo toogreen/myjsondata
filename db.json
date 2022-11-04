@@ -1,6 +1,6 @@
 {       "newsDb":[
           {
-            "id": -5,
+            "id": -4,
             "col": "right",
             "header": "COVID-19",
             "title":"Dans l'ombre, la firme McKinsey &eacute;tait au coeur de la gestion de la pand&eacute;mie au Qu&eacute;bec",
@@ -11,7 +11,7 @@
             "source":"https://ici.radio-canada.ca/"
           },
           {
-            "id": -4,
+            "id": -3,
             "col": "middle",
             "header": "COVID-19",
             "title":"Un passeport vaccinal aux effets limités, conclut une étude",
@@ -22,7 +22,7 @@
             "source":"https://www.journaldemontreal.com/"
           },
           {
-            "id": -3,
+            "id": -2,
             "col": "left",
             "header": "COVID-19",
             "title":"Le véritable portrait de la Covid-19 au Québec",
@@ -31,17 +31,6 @@
             "img":"https://lm-articles.nyc3.digitaloceanspaces.com/98WFQJMP1EA35zF5mfMhUatMK2OhngkY1Q9s7K67.jpg",
             "class":"card1",
             "source":"https://libremedia.ca/"
-          },
-          {
-            "id": -2,
-            "col": "right",
-            "header": "COVID-19",
-            "title":"Le convoi des camionneurs n’était pas financé par des acteurs étrangers, selon le SCRS",
-            "desc":"C'est ce qu'affirmait le directeur des services de renseignement, David Vigneault, une semaine avant que le gouvernement Trudeau n'invoque la Loi sur les mesures d'urgence.",
-            "url":"https://ici.radio-canada.ca/nouvelle/1925908/loi-etat-urgence-ottawa-financement-etranger-convoi-camionneurs",
-            "img":"https://images.radio-canada.ca/q_auto,w_960/v1/ici-info/16x9/convoi-camionneurs-centre-ville-ottawa-gaz-essence-occupation-canada.jpg",
-            "class":"card1",
-            "source":"https://https://ici.radio-canada.ca/"
           },
           {
             "id": -1,
