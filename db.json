@@ -1,17 +1,4 @@
 {       "newsDb":[
-
-          {
-            "id": -5,
-            "col": "right",
-            "header": "COVID-19",
-            "title":"Dans l???ombre, la firme McKinsey ??tait au c??ur de la gestion de la pand??mie au Qu??bec",
-            "desc":"L???effet du passeport vaccinal a ??t?? limit?? au Qu??bec ??tant donn?? le taux de vaccination d??j?? tr??s ??lev?? dans la province, selon une nouvelle ??tude.",
-            "url":"https://ici.radio-canada.ca/nouvelle/1920666/mckinsey-quebec-covid-legault-gestion-pandemie",
-            "img":"https://images.radio-canada.ca/q_auto,w_960/v1/ici-info/16x9/legault-dube-arruda-53297.JPG",
-            "class":"card1",
-            "source":"https://ici.radio-canada.ca/"
-          },
-
           {
             "id": -4,
             "col": "middle",
