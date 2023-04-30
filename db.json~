@@ -1,6 +1,17 @@
 {       "newsDb":[
           {
             "id": -4,
+            "col": "right",
+            "header": "COVID-19",
+            "title":"Dans l'ombre, la firme McKinsey était au cœur de la gestion de la pandémie au Québec",
+            "desc":"Le gouvernement Legault n'a pas tout dit du rôle joué par les consultants, payés 35 000 $ par jour.",
+            "url":"https://ici.radio-canada.ca/nouvelle/1920666/mckinsey-quebec-covid-legault-gestion-pandemie",
+            "img":"https://images.radio-canada.ca/q_auto,w_960/v1/ici-info/16x9/legault-dube-arruda-53297.JPG",
+            "class":"card1",
+            "source":"https://ici.radio-canada.ca/"
+          },
+          {
+            "id": -3,
             "col": "middle",
             "header": "COVID-19",
             "title":"Un passeport vaccinal aux effets limités, conclut une étude",
@@ -11,26 +22,15 @@
             "source":"https://www.journaldemontreal.com/"
           },
           {
-            "id": -3,
+            "id": -2,
             "col": "left",
             "header": "COVID-19",
             "title":"Le véritable portrait de la Covid-19 au Québec",
             "desc":"Québecor a retiré ce texte du professeur Patrick Provost paru cette semaine au Journal de Montréal, au Journal de Québec et sur le site de TVA Nouvelles. Conformément à sa mission de protéger la liberté de presse, Libre Média le publie en intégralité.",
-            "url":"https://libremedia.ca/article/le-veritable-portrait-de-la-covid-19-au-quebec",
+            "url":"https://libre-media.com/article/le-veritable-portrait-de-la-covid-19-au-quebec",
             "img":"https://lm-articles.nyc3.digitaloceanspaces.com/98WFQJMP1EA35zF5mfMhUatMK2OhngkY1Q9s7K67.jpg",
             "class":"card1",
             "source":"https://libremedia.ca/"
-          },
-          {
-            "id": -2,
-            "col": "right",
-            "header": "COVID-19",
-            "title":"Le convoi des camionneurs n’était pas financé par des acteurs étrangers, selon le SCRS",
-            "desc":"C'est ce qu'affirmait le directeur des services de renseignement, David Vigneault, une semaine avant que le gouvernement Trudeau n'invoque la Loi sur les mesures d'urgence.",
-            "url":"https://ici.radio-canada.ca/nouvelle/1925908/loi-etat-urgence-ottawa-financement-etranger-convoi-camionneurs",
-            "img":"https://images.radio-canada.ca/q_auto,w_960/v1/ici-info/16x9/convoi-camionneurs-centre-ville-ottawa-gaz-essence-occupation-canada.jpg",
-            "class":"card1",
-            "source":"https://https://ici.radio-canada.ca/"
           },
           {
             "id": -1,
@@ -110,18 +110,12 @@
             "source":"ici.radio-canada.ca"
           },
           {
-            "id": 6,
-            "col": "caricatures",
-            "header": "Caricatures",
-            "img": "https://pbs.twimg.com/media/EW9is8IWoAY1neo.jpg"
-          },
-          {
-              "id": 7,
+              "id": 6,
               "col":"caricatures",
               "img": "https://images.tele.quebec/squat/img/32b60df6-01ea-4b8e-8a33-63282e9e6548/683eda5f-2b4d-4eb3-8e2c-f714d68699ae/1ce3859c-78e3-4e41-9edd-c521c712878b.jpg?ts=1592306342"
           },
           {
-              "id": 8,
+              "id": 7,
               "col":"caricatures",
               "img":"https://toogreen.ca/blog/wp-content/uploads/2020/07/20200717_145555.jpg"
           }

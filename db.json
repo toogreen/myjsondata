@@ -1,4 +1,17 @@
 {       "newsDb":[
+
+  https://www.journaldemontreal.com/2023/04/21/radio-canada-information-ou-propagande
+          {
+            "id": -5,
+            "col": "left",
+            "header": "Propagande",
+            "title":"Radio-Canada: information ou propagande?",
+            "desc":"Pierre Poilievre a jeté un pavé dans la mare en accusant Radio-Canada d’être un organe de propagande pro-Trudeau.",
+            "url":"https://www.journaldemontreal.com/2023/04/21/radio-canada-information-ou-propagande",
+            "img":"https://external.fymq2-1.fna.fbcdn.net/emg1/v/t13/17381562091506127520?url=https%3A%2F%2Fm1.quebecormedia.com%2Femp%2Femp%2F869ba4b6-6d54-4351-a212-889c02ccf285%2Fbloc-radiocanada_ORIGINAL.jpg%3Fimpolicy%3Dcrop-resize%26x%3D0%26y%3D371%26w%3D3200%26h%3D1320%26width%3D1200&fb_obo=1&utld=quebecormedia.com&stp=c0.5000x0.5000f_dst-jpg_flffffff_p500x261_q75&ccb=13-1&oh=06_AbGWHmZNXYWfpBoHEAIU8OY2Y27BzXcKUcrcRiIXyjL6Qw&oe=6450378A&_nc_sid=7ca135",
+            "class":"card1",
+            "source":"https://www.journaldemontreal.com"
+          },
           {
             "id": -4,
             "col": "right",
