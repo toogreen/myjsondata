@@ -57,7 +57,7 @@
             "source":"https://plus.lapresse.ca/"
           },
           {
-            "id": 1,
+            "id": 0,
             "col": "middle",
             "header": "COVID-19",
             "title":"Le confinement à la source d’une deuxième vague, mais psychiatrique?",
@@ -68,7 +68,7 @@
             "source":"journaldemontreal.com"
           },
           {
-            "id": 2,
+            "id": 1,
             "col": "left",
             "header": "COVID-19",
             "title":"Coronavirus: un virus mutant moins agressif, selon une étude", 
@@ -79,7 +79,7 @@
             "source":"journalmetro.com"
           },
           {
-            "id": 3,
+            "id": 2,
             "col": "left",
             "header": "",
             "title":"Un couvre-visage plus symbolique que sanitaire", 
@@ -90,7 +90,7 @@
             "source":"ledevoir.com"
           },
           {
-            "id": 4,
+            "id": 2,
             "col": "middle",
             "header": "",
             "title":"Tenter d'éradiquer le coronavirus a un coût social trop élevé, disent des experts", 
@@ -101,7 +101,7 @@
             "source": "ici.radio-canada.ca"
           },
           {
-            "id": 5,
+            "id": 3,
             "col": "right",
             "header": "COVID-19",
             "title":"COVID-19 : difficile pour des médecins de se faire entendre",
@@ -112,7 +112,7 @@
             "source":"ici.radio-canada.ca"
           },
           {
-              "id": 6,
+              "id": 4,
               "col":"caricatures",
               "img":"https://toogreen.ca/blog/wp-content/uploads/2020/07/20200717_145555.jpg"
           }
